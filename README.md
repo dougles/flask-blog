@@ -8,6 +8,10 @@
 
 `source venv/bin/activate`
 
+## Install  dependencies
+
+`pip install -e .`
+
 ### Execute application 
 
 `export FLASK_APP=flaskr`
