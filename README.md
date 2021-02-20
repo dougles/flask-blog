@@ -1,4 +1,7 @@
-# Flask blog  tutorial 
+# Flask blog tutorial 
+development purpose
+
+https://flask.palletsprojects.com/en/1.1.x/tutorial/
 
 ### Create virtual environmnet
 
